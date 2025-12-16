@@ -282,3 +282,9 @@ Contributions are welcome! See our [Contributing Guidelines](https://github.com/
 - **Tools**: [Development Tools](https://github.com/synheart-ai/synheart-emotion/tree/main/tools)
 - **Synheart AI**: [synheart.ai](https://synheart.ai)
 - **Issues**: [GitHub Issues](https://github.com/synheart-ai/synheart-emotion-ios/issues)
+
+## Patent Pending Notice
+
+This project is provided under an open-source license. Certain underlying systems, methods, and architectures described or implemented herein may be covered by one or more pending patent applications.
+
+Nothing in this repository grants any license, express or implied, to any patents or patent applications, except as provided by the applicable open-source license.
